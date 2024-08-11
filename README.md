@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushant09112004
 - 👀 I’m interested in Web-devlopment
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jadhavsushant379@gmail.com |cont-8530690469
 - 😄 Pronouns: ...
