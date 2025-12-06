@@ -120,12 +120,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sushant09112004/sushant09112004/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sushant09112004.sushant09112004&"  />
-</div>
 
 ###
